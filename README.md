@@ -6,5 +6,5 @@ Do you know the watch dog? Yes, this is the watch puppy.
 Whether all PCs are in saving energy state is reported to service.
 
 
-## Other monitor
+## Other monitors
 Todo
