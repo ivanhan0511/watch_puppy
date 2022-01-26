@@ -3,8 +3,9 @@ Do you know the watch dog? Yes, this is the watch puppy.
 
 
 ## Energy Saver
-Whether all PCs are in saving energy state is reported to service.
+The state that whether all PCs are in saving-energy state will be sent 
+to backend service.
 
 
-## Other monitor
+## Other monitors
 Todo
